@@ -2,11 +2,11 @@
 
 In this project I was given a web-based application that reads RSS feeds. I had to create a number of test using Jasmine. The files already included [Jasmine](http://jasmine.github.io/).
 
-## How to open project.
+## How to open project
 
 Either download the files and open 'index.html' or open the [live site](https://jasonrhowie.com/feedreader/).
 
-## Steps to complete this project?
+## Steps to complete this project
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
